@@ -46,7 +46,7 @@ Based on the packet capture analysis, I identified the following protocols:
 - `icmpv6-filter.png` - ICMPv6 neighbor discovery
 
 ## 7. Files Included
-- `my_capture.pcap` - Original packet capture file
+- `mkcaptures.pcap` - Original packet capture file
 - `README.md` - This report file
 
 
